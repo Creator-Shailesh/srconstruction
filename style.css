@@ -172,12 +172,13 @@ padding: 56px;
   footer{
       background-color: rgba(0, 0, 0, 0.767);
       color: white;
+      padding: 56px;
   }
   footer h4{
       text-transform: uppercase;
   }
   footer .col-md-4,.col-md-3{
-      padding: 56px;
+      padding-top:16px ;
   }
   footer ul{
     padding: 0;
